@@ -1,16 +1,15 @@
-## Hi there 👋
+###
 
-<!--
-**ewkwerd/ewkwerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🌱</h3>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- *Me apasiona la programación, los videojuegos y el dibujo.*
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ewkwerd&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=discord_old_blurple&hide_border=true&order=2&custom_title=Tecnolog%C3%ADas%20Utilizadas" height="100" alt="languages graph"  />
+</div>
+
+###
