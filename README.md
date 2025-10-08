@@ -1,2 +1,2 @@
 ###
-- I am passionate about programming, video games, and drawing.
+- I am passionate about full-stack development.
